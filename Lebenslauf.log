@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.20)  20 FEB 2025 11:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.20)  20 FEB 2025 15:31
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -751,15 +751,15 @@ Package rerunfilecheck Info: File `Lebenslauf.out' has not changed.
 (rerunfilecheck)             Checksum: 9555116196804C8E9B5F952628939B4B;405.
  ) 
 Here is how much of TeX's memory you used:
- 26604 strings out of 473899
- 515048 string characters out of 5726500
- 917483 words of memory out of 5000000
+ 26618 strings out of 473899
+ 515202 string characters out of 5726500
+ 918486 words of memory out of 5000000
  48944 multiletter control sequences out of 15000+600000
- 625961 words of font info for 113 fonts, out of 8000000 for 9000
+ 626634 words of font info for 120 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,12n,129p,1078b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro17.pfb>
-Output written on Lebenslauf.pdf (2 pages, 245344 bytes).
+Output written on Lebenslauf.pdf (2 pages, 245912 bytes).
 PDF statistics:
  92 PDF objects out of 1000 (max. 8388607)
  7 named destinations out of 1000 (max. 500000)
