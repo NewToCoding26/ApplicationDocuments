@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.20)  20 FEB 2025 15:31
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.20)  2 APR 2025 10:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/lirid/OneDrive/Desktop/VScode/Repository/Bewerbungsunterlagen/Lebenslauf.tex
-(c:/Users/lirid/OneDrive/Desktop/VScode/Repository/Bewerbungsunterlagen/Lebenslauf.tex
+**c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/Lebenslauf.tex
+(c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/Lebenslauf.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
 (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncv.cls
@@ -206,30 +206,7 @@ Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
 \Gm@layouthoffset=\dimen154
 \Gm@layoutvoffset=\dimen155
 \Gm@dimlist=\toks23
- (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blindtext.sty
-Package: blindtext 2012/01/06 V2.0 blindtext-Package
- (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/tools\xspace.sty
-Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
-)
-\c@blindtext=\count277
-\c@Blindtext=\count278
-\c@blind@countparstart=\count279
-\blind@countxx=\count280
-\blindtext@numBlindtext=\count281
-\blind@countyy=\count282
-\c@blindlist=\count283
-\c@blindlistlevel=\count284
-\c@blindlist@level=\count285
-\blind@listitem=\count286
-\c@blind@listcount=\count287
-\c@blind@levelcount=\count288
-\blind@mathformula=\count289
-\blind@Mathformula=\count290
-\c@blind@randomcount=\count291
-\c@blind@randommax=\count292
-\c@blind@pangramcount=\count293
-\c@blind@pangrammax=\count294
-) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncvcolorblue.sty
+ (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg)) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncvcolorblue.sty
 Package: moderncvcolorblue 2024-07-18 v2.4.1 modern curriculum vitae and letter color scheme: blue
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncvcolors.tex)) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncvstyleclassic.sty
 Package: moderncvstyleclassic 2024-07-18 v2.4.1 modern curriculum vitae and letter style scheme: classic
@@ -279,14 +256,14 @@ Package: pgfsys 2023-01-15 v3.1.10 (3.1.10)
 \pgf@yd=\dimen167
 \w@pgf@writea=\write3
 \r@pgf@reada=\read2
-\c@pgf@counta=\count295
-\c@pgf@countb=\count296
-\c@pgf@countc=\count297
-\c@pgf@countd=\count298
+\c@pgf@counta=\count277
+\c@pgf@countb=\count278
+\c@pgf@countc=\count279
+\c@pgf@countd=\count280
 \t@pgf@toka=\toks28
 \t@pgf@tokb=\toks29
 \t@pgf@tokc=\toks30
-\pgf@sys@id@count=\count299
+\pgf@sys@id@count=\count281
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.cfg
 File: pgf.cfg 2023-01-15 v3.1.10 (3.1.10)
 )
@@ -297,21 +274,21 @@ File: pgfsys-pdftex.def 2023-01-15 v3.1.10 (3.1.10)
 File: pgfsys-common-pdf.def 2023-01-15 v3.1.10 (3.1.10)
 ))) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsyssoftpath.code.tex
 File: pgfsyssoftpath.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfsyssoftpath@smallbuffer@items=\count300
-\pgfsyssoftpath@bigbuffer@items=\count301
+\pgfsyssoftpath@smallbuffer@items=\count282
+\pgfsyssoftpath@bigbuffer@items=\count283
 ) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsysprotocol.code.tex
 File: pgfsysprotocol.code.tex 2023-01-15 v3.1.10 (3.1.10)
 )) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcore.code.tex
 Package: pgfcore 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code.tex (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparser.code.tex
 \pgfmath@dimen=\dimen168
-\pgfmath@count=\count302
+\pgfmath@count=\count284
 \pgfmath@box=\box57
 \pgfmath@toks=\toks31
 \pgfmath@stack@operand=\toks32
 \pgfmath@stack@operation=\toks33
 ) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.basic.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.trigonometric.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.random.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.comparison.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.base.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.round.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.misc.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunctions.integerarithmetics.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat.code.tex
-\c@pgfmathroundto@lastzeros=\count303
+\c@pgfmathroundto@lastzeros=\count285
 )) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.tex) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcorepoints.code.tex
 File: pgfcorepoints.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@picminx=\dimen169
@@ -341,7 +318,7 @@ File: pgfcorescopes.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgfpic=\box58
 \pgf@hbox=\box59
 \pgf@layerbox@main=\box60
-\pgf@picture@serial@count=\count304
+\pgf@picture@serial@count=\count286
 ) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoregraphicstate.code.tex
 File: pgfcoregraphicstate.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgflinewidth=\dimen187
@@ -362,8 +339,8 @@ File: pgfcorearrows.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreshade.code.tex
 File: pgfcoreshade.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \pgf@max=\dimen192
-\pgf@sys@shading@range@num=\count305
-\pgf@shadingcount=\count306
+\pgf@sys@shading@range@num=\count287
+\pgf@shadingcount=\count288
 ) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreimage.code.tex
 File: pgfcoreimage.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcoreexternal.code.tex
@@ -398,7 +375,7 @@ Package: pgffor 2023-01-15 v3.1.10 (3.1.10)
 Package: tikz 2023-01-15 v3.1.10 (3.1.10)
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibraryplothandlers.code.tex
 File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgf@plot@mark@count=\count307
+\pgf@plot@mark@count=\count289
 \pgfplotmarksize=\dimen197
 )
 \tikz@lastx=\dimen198
@@ -413,17 +390,17 @@ File: pgflibraryplothandlers.code.tex 2023-01-15 v3.1.10 (3.1.10)
 \tikz@figbox@bg=\box64
 \tikz@tempbox=\box65
 \tikz@tempbox@bg=\box66
-\tikztreelevel=\count308
-\tikznumberofchildren=\count309
-\tikznumberofcurrentchild=\count310
-\tikz@fig@count=\count311
+\tikztreelevel=\count290
+\tikznumberofchildren=\count291
+\tikznumberofcurrentchild=\count292
+\tikz@fig@count=\count293
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodulematrix.code.tex
 File: pgfmodulematrix.code.tex 2023-01-15 v3.1.10 (3.1.10)
-\pgfmatrixcurrentrow=\count312
-\pgfmatrixcurrentcolumn=\count313
-\pgf@matrix@numberofcolumns=\count314
+\pgfmatrixcurrentrow=\count294
+\pgfmatrixcurrentcolumn=\count295
+\pgf@matrix@numberofcolumns=\count296
 )
-\tikz@expandcount=\count315
+\tikz@expandcount=\count297
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2023-01-15 v3.1.10 (3.1.10)
 ))))) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncvheadi.sty
@@ -437,7 +414,7 @@ Package: moderncvskillmatrix 2024-07-18 v2.4.1 modern curriculum vitae and lette
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
 Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
 \multirow@colwidth=\skip77
-\multirow@cntb=\count316
+\multirow@cntb=\count298
 \multirow@dima=\skip78
 \bigstrutjot=\dimen262
 ) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/arydshln\arydshln.sty
@@ -450,21 +427,21 @@ Package: arydshln 2019/02/21 v1.76
 \adl@depth=\dimen267
 \adl@depthsave=\dimen268
 \adl@finaldepth=\dimen269
-\adl@columns=\count317
-\adl@ncol=\count318
-\adl@currentcolumn=\count319
-\adl@currentcolumnsave=\count320
-\adl@totalheight=\count321
-\adl@totalheightsave=\count322
-\adl@dash=\count323
-\adl@gap=\count324
-\adl@cla=\count325
-\adl@clb=\count326
+\adl@columns=\count299
+\adl@ncol=\count300
+\adl@currentcolumn=\count301
+\adl@currentcolumnsave=\count302
+\adl@totalheight=\count303
+\adl@totalheightsave=\count304
+\adl@dash=\count305
+\adl@gap=\count306
+\adl@cla=\count307
+\adl@clb=\count308
 \adl@everyvbox=\toks36
 \adl@LTpagetotal=\dimen270
 )
 \cvSkill@ShapeSize=\skip79
-\my@repeat@count=\count327
+\my@repeat@count=\count309
 \cvskill@width=\skip80
 \cvskill@descriptorwidth=\skip81
 \cvskill@experiencewidth=\skip82
@@ -524,13 +501,13 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count328
+\c@section@level=\count310
 ) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/stringenc\stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
 )
 \@linkdim=\dimen271
-\Hy@linkcounter=\count329
-\Hy@pagecounter=\count330
+\Hy@linkcounter=\count311
+\Hy@pagecounter=\count312
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
 File: pd1enc.def 2024-07-10 v7.01j Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
@@ -538,7 +515,7 @@ Now handling font encoding PD1 ...
 ) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count331
+\Hy@SavedSpaceFactor=\count313
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
 File: puenc.def 2024-07-10 v7.01j Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
@@ -552,7 +529,7 @@ Package hyperref Info: Plain pages OFF on input line 4172.
 Package hyperref Info: Backreferencing OFF on input line 4177.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
 Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count332
+\c@Hy@tempcnt=\count314
 LaTeX Info: Redefining \url on input line 4763.
 \XeTeXLinkMargin=\dimen272
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
@@ -560,7 +537,7 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
 ))
-\Fld@menulength=\count333
+\Fld@menulength=\count315
 \Field@Width=\dimen273
 \Fld@charsize=\dimen274
 Package hyperref Info: Hyper figures OFF on input line 6042.
@@ -574,9 +551,9 @@ Package hyperref Info: PDF/A mode OFF on input line 6072.
 Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
 package with kernel methods
 )
-\Hy@abspage=\count334
-\c@Item=\count335
-\c@Hfootnote=\count336
+\Hy@abspage=\count316
+\c@Item=\count317
+\c@Hfootnote=\count318
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
@@ -585,8 +562,8 @@ File: hpdftex.def 2024-07-10 v7.01j Hyperref driver for pdfTeX
 Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend package
 with kernel methods
 )
-\Fld@listcount=\count337
-\c@bookmark@seq@number=\count338
+\Fld@listcount=\count319
+\c@bookmark@seq@number=\count320
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
 Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
@@ -596,41 +573,41 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 \Hy@SectionHShift=\skip106
 )
-Package hyperref Info: Option `breaklinks' set `true' on input line 23.
-Package hyperref Info: Option `bookmarksopen' set `true' on input line 23.
+Package hyperref Info: Option `breaklinks' set `true' on input line 16.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 16.
  (Lebenslauf.aux)
 \openout1 = `Lebenslauf.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count339
+\scratchcounter=\count321
 \scratchdimen=\dimen275
 \scratchbox=\box69
-\nofMPsegments=\count340
-\nofMParguments=\count341
+\nofMPsegments=\count322
+\nofMParguments=\count323
 \everyMPshowfont=\toks37
-\MPscratchCnt=\count342
+\MPscratchCnt=\count324
 \MPscratchDim=\dimen276
-\MPnumerator=\count343
-\makeMPintoPDFobject=\count344
+\MPnumerator=\count325
+\makeMPintoPDFobject=\count326
 \everyMPtoPDFconversion=\toks38
 ) (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -638,20 +615,20 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 48
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Info: Redefining \microtypecontext on input line 23.
-Package microtype Info: Applying patch `item' on input line 23.
-Package microtype Info: Applying patch `toc' on input line 23.
-Package microtype Info: Applying patch `eqnum' on input line 23.
-Package microtype Info: Applying patch `footnote' on input line 23.
-Package microtype Info: Applying patch `verbatim' on input line 23.
-LaTeX Info: Redefining \microtypesetup on input line 23.
+LaTeX Info: Redefining \microtypecontext on input line 16.
+Package microtype Info: Applying patch `item' on input line 16.
+Package microtype Info: Applying patch `toc' on input line 16.
+Package microtype Info: Applying patch `eqnum' on input line 16.
+Package microtype Info: Applying patch `footnote' on input line 16.
+Package microtype Info: Applying patch `verbatim' on input line 16.
+LaTeX Info: Redefining \microtypesetup on input line 16.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 23.
+LaTeX Info: Redefining \showhyphens on input line 16.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -692,57 +669,53 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 23.
+Package hyperref Info: Link coloring OFF on input line 16.
 (Lebenslauf.out) (Lebenslauf.out)
 \@outlinefile=\write4
 \openout4 = `Lebenslauf.out'.
 
-\pagenumberwidth=\skip107
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 24.
- (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
-LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 24.
- (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 24.
+\makecvheaddetailsbox=\box70
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 19.
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 24.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 19.
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 24.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 19.
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 24.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 19.
  (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10.95> on input line 24.
+(Font)              <10> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 24.
+(Font)              <7> on input line 19.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 24.
+(Font)              <5> on input line 19.
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on input line 19.
+ (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree2.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on input line 19.
+ (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/fontawesome5\ufontawesomefree1.fd)
+\makecvheadpicturebox=\box71
+\makecvheaddetailswidth=\skip107
+\makecvheadpicturewidth=\skip108
+\makecvheadnamebox=\box72
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10.95> on input line 20.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <6> on input line 20.
 
 
 [1
 
-{C:/Users/lirid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}]
-\makecvheaddetailsbox=\box70
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <10> on input line 32.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <7> on input line 32.
-LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 32.
-\makecvheadpicturebox=\box71
-\makecvheaddetailswidth=\skip108
-\makecvheadpicturewidth=\skip109
-\makecvheadnamebox=\box72
-
-
-[2{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}] (Lebenslauf.aux)
+{C:/Users/lirid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}] (Lebenslauf.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
@@ -751,17 +724,17 @@ Package rerunfilecheck Info: File `Lebenslauf.out' has not changed.
 (rerunfilecheck)             Checksum: 9555116196804C8E9B5F952628939B4B;405.
  ) 
 Here is how much of TeX's memory you used:
- 26618 strings out of 473899
- 515202 string characters out of 5726500
- 918486 words of memory out of 5000000
- 48944 multiletter control sequences out of 15000+600000
- 626634 words of font info for 120 fonts, out of 8000000 for 9000
+ 26406 strings out of 473899
+ 511343 string characters out of 5726500
+ 924502 words of memory out of 5000000
+ 48752 multiletter control sequences out of 15000+600000
+ 619997 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,12n,129p,1078b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,11n,129p,1071b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro17.pfb>
-Output written on Lebenslauf.pdf (2 pages, 245912 bytes).
+Output written on Lebenslauf.pdf (1 page, 241732 bytes).
 PDF statistics:
- 92 PDF objects out of 1000 (max. 8388607)
- 7 named destinations out of 1000 (max. 500000)
- 38957 words of extra memory for PDF output out of 42996 (max. 10000000)
+ 84 PDF objects out of 1000 (max. 8388607)
+ 6 named destinations out of 1000 (max. 500000)
+ 34861 words of extra memory for PDF output out of 35830 (max. 10000000)
 
