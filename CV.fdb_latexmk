@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1748613898.74701 "c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/Lebenslauf.tex" "Lebenslauf.pdf" "Lebenslauf" 1748613903.66799 0
+["pdflatex"] 1748613887.23647 "c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/CV.tex" "CV.pdf" "CV" 1748613892.67424 0
   "C:/Users/lirid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747659094 82011 97247c01f6bfb6f6d0c40fab12a08423 ""
   "C:/Users/lirid/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1726850178 11948197 cc1eedc40f8c1694b423f29d34a737e1 ""
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1651500229 3083 a707712f77b073b3833e4b1334a30e99 ""
@@ -192,13 +192,13 @@
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1718356376 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "Lebenslauf.aux" 1748613902 583 50a3cb333d9ec7779d01fe316920aff3 "pdflatex"
-  "Lebenslauf.out" 1748613902 405 9555116196804c8e9b5f952628939b4b "pdflatex"
-  "Lebenslauf.tex" 1748613896 1587 8077ab679c519e471c9ea6b03f2958a8 ""
-  "c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/Lebenslauf.tex" 1748613896 1587 8077ab679c519e471c9ea6b03f2958a8 ""
+  "CV.aux" 1748613891 581 84769e2dd4b7c0244a2ad58fc1d9c754 "pdflatex"
+  "CV.out" 1748613891 398 f1f14e125baa3a402e920e5e1e8e6a30 "pdflatex"
+  "CV.tex" 1748613885 1601 522b53c39714f41328d29260a9feb42b ""
+  "c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/CV.tex" 1748613885 1601 522b53c39714f41328d29260a9feb42b ""
   (generated)
-  "Lebenslauf.aux"
-  "Lebenslauf.log"
-  "Lebenslauf.out"
-  "Lebenslauf.pdf"
+  "CV.aux"
+  "CV.log"
+  "CV.out"
+  "CV.pdf"
   (rewritten before read)
