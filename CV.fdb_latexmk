@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1748613887.23647 "c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/CV.tex" "CV.pdf" "CV" 1748613892.67424 0
-  "C:/Users/lirid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1747659094 82011 97247c01f6bfb6f6d0c40fab12a08423 ""
+["pdflatex"] 1748674400.85714 "c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/CV.tex" "CV.pdf" "CV" 1748674404.64355 0
+  "C:/Users/lirid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748615648 82011 97247c01f6bfb6f6d0c40fab12a08423 ""
   "C:/Users/lirid/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1726850178 11948197 cc1eedc40f8c1694b423f29d34a737e1 ""
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1651500229 3083 a707712f77b073b3833e4b1334a30e99 ""
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc" 1651500229 3042 0e2b14b9be7d01075a4c4591d5d1781b ""
@@ -192,10 +192,10 @@
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1718356376 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "CV.aux" 1748613891 581 84769e2dd4b7c0244a2ad58fc1d9c754 "pdflatex"
-  "CV.out" 1748613891 398 f1f14e125baa3a402e920e5e1e8e6a30 "pdflatex"
-  "CV.tex" 1748613885 1601 522b53c39714f41328d29260a9feb42b ""
-  "c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/CV.tex" 1748613885 1601 522b53c39714f41328d29260a9feb42b ""
+  "CV.aux" 1748674403 581 84769e2dd4b7c0244a2ad58fc1d9c754 "pdflatex"
+  "CV.out" 1748674403 398 f1f14e125baa3a402e920e5e1e8e6a30 "pdflatex"
+  "CV.tex" 1748674399 1599 fc9c48e748d6aae6a597294a3ad81d0e ""
+  "c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/CV.tex" 1748674399 1599 fc9c48e748d6aae6a597294a3ad81d0e ""
   (generated)
   "CV.aux"
   "CV.log"
