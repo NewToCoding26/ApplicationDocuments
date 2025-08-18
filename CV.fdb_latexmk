@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1755528115.70249 "c:/Users/lirid/Downloads/VScode/Repository/ApplicationDocuments/CV.tex" "CV.pdf" "CV" 1755528118.78082 0
+["pdflatex"] 1755529702.52903 "c:/Users/lirid/Downloads/VScode/Repository/ApplicationDocuments/CV.tex" "CV.pdf" "CV" 1755529705.781 0
   "C:/Users/lirid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1748615648 82011 97247c01f6bfb6f6d0c40fab12a08423 ""
   "C:/Users/lirid/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1726850178 11948197 cc1eedc40f8c1694b423f29d34a737e1 ""
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc" 1651500229 3083 a707712f77b073b3833e4b1334a30e99 ""
@@ -195,10 +195,10 @@
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/tex/latex/tools/calc.sty" 1718356376 10214 61188260d324e94bc2f66825d7d3fdf4 ""
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/lirid/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "CV.aux" 1755528118 772 de380c6ccf8397ae010e4b7533c57fda "pdflatex"
-  "CV.out" 1755528118 612 d6b158447f0c25b6baf6a0ebe0242dce "pdflatex"
-  "CV.tex" 1755528114 1936 7d00bfbd4fbb9960afe85db8137571d7 ""
-  "c:/Users/lirid/Downloads/VScode/Repository/ApplicationDocuments/CV.tex" 1755528114 1936 7d00bfbd4fbb9960afe85db8137571d7 ""
+  "CV.aux" 1755529705 772 de380c6ccf8397ae010e4b7533c57fda "pdflatex"
+  "CV.out" 1755529705 612 d6b158447f0c25b6baf6a0ebe0242dce "pdflatex"
+  "CV.tex" 1755529701 1977 600801d35970f84d7c45262450ebd9e4 ""
+  "c:/Users/lirid/Downloads/VScode/Repository/ApplicationDocuments/CV.tex" 1755529701 1977 600801d35970f84d7c45262450ebd9e4 ""
   (generated)
   "CV.aux"
   "CV.log"
