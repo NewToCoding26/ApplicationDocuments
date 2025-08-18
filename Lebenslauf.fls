@@ -1,6 +1,6 @@
-PWD c:\Users\lirid\Downloads\VScode\Repository\Bewerbungsunterlagen
+PWD c:\Users\lirid\Downloads\VScode\Repository\ApplicationDocuments
 INPUT C:\Users\lirid\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
-INPUT c:\Users\lirid\Downloads\VScode\Repository\Bewerbungsunterlagen\Lebenslauf.tex
+INPUT c:\Users\lirid\Downloads\VScode\Repository\ApplicationDocuments\Lebenslauf.tex
 OUTPUT Lebenslauf.log
 INPUT C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex\latex\moderncv\moderncv.cls
 INPUT C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex\latex\moderncv\moderncv.cls

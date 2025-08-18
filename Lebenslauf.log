@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.20)  30 MAY 2025 16:04
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.20)  18 AUG 2025 16:34
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/Lebenslauf.tex
-(c:/Users/lirid/Downloads/VScode/Repository/Bewerbungsunterlagen/Lebenslauf.tex
+**c:/Users/lirid/Downloads/VScode/Repository/ApplicationDocuments/Lebenslauf.tex
+(c:/Users/lirid/Downloads/VScode/Repository/ApplicationDocuments/Lebenslauf.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
 (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncv.cls
@@ -726,13 +726,13 @@ Package rerunfilecheck Info: File `Lebenslauf.out' has not changed.
 Here is how much of TeX's memory you used:
  26406 strings out of 473899
  511343 string characters out of 5726500
- 924502 words of memory out of 5000000
+ 924497 words of memory out of 5000000
  48752 multiletter control sequences out of 15000+600000
  619997 words of font info for 112 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,11n,129p,1071b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro17.pfb>
-Output written on Lebenslauf.pdf (1 page, 241732 bytes).
+Output written on Lebenslauf.pdf (1 page, 240774 bytes).
 PDF statistics:
  84 PDF objects out of 1000 (max. 8388607)
  6 named destinations out of 1000 (max. 500000)
