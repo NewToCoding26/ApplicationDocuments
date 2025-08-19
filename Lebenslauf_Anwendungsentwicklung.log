@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.20)  19 AUG 2025 14:51
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (MiKTeX 24.4) (preloaded format=pdflatex 2024.9.20)  19 AUG 2025 14:53
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/lirid/Downloads/VScode/Repository/ApplicationDocuments/CV.tex
-(c:/Users/lirid/Downloads/VScode/Repository/ApplicationDocuments/CV.tex
+**c:/Users/lirid/Downloads/VScode/Repository/ApplicationDocuments/Lebenslauf_Anwendungsentwicklung.tex
+(c:/Users/lirid/Downloads/VScode/Repository/ApplicationDocuments/Lebenslauf_Anwendungsentwicklung.tex
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
 (C:\Users\lirid\AppData\Local\Programs\MiKTeX\tex/latex/moderncv\moderncv.cls
@@ -575,8 +575,8 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 28
 )
 Package hyperref Info: Option `breaklinks' set `true' on input line 17.
 Package hyperref Info: Option `bookmarksopen' set `true' on input line 17.
- (CV.aux)
-\openout1 = `CV.aux'.
+ (Lebenslauf_Anwendungsentwicklung.aux)
+\openout1 = `Lebenslauf_Anwendungsentwicklung.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
 LaTeX Font Info:    ... okay on input line 17.
@@ -670,9 +670,9 @@ File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman (
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 Package hyperref Info: Link coloring OFF on input line 17.
-(CV.out) (CV.out)
+(Lebenslauf_Anwendungsentwicklung.out) (Lebenslauf_Anwendungsentwicklung.out)
 \@outlinefile=\write4
-\openout4 = `CV.out'.
+\openout4 = `Lebenslauf_Anwendungsentwicklung.out'.
 
 \makecvheaddetailsbox=\box70
 LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 20.
@@ -723,24 +723,24 @@ Package microtype Info: Loading generic protrusion settings for font family
 
 [1
 
-{C:/Users/lirid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}] (CV.aux)
+{C:/Users/lirid/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free2.enc}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free1.enc}{C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/fontawesome5/fa5free0.enc}] (Lebenslauf_Anwendungsentwicklung.aux)
  ***********
 LaTeX2e <2024-06-01> patch level 2
 L3 programming layer <2024-08-30>
  ***********
-Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: D6B158447F0C25B6BAF6A0EBE0242DCE;612.
+Package rerunfilecheck Info: File `Lebenslauf_Anwendungsentwicklung.out' has not changed.
+(rerunfilecheck)             Checksum: D782339F7168474D70ED430559970EFD;667.
  ) 
 Here is how much of TeX's memory you used:
- 26459 strings out of 473899
- 512060 string characters out of 5726500
- 938533 words of memory out of 5000000
+ 26451 strings out of 473899
+ 512562 string characters out of 5726500
+ 938588 words of memory out of 5000000
  48799 multiletter control sequences out of 15000+600000
- 620316 words of font info for 113 fonts, out of 8000000 for 9000
+ 619938 words of font info for 109 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 129i,11n,129p,1063b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 129i,11n,129p,1093b,462s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Regular.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/fontawesome5/FontAwesome5Free-Solid.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro17.pfb><C:/Users/lirid/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on CV.pdf (1 page, 269852 bytes).
+Output written on Lebenslauf_Anwendungsentwicklung.pdf (1 page, 272461 bytes).
 PDF statistics:
  100 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
